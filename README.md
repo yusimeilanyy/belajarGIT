@@ -8,3 +8,10 @@
 7. Tugas-finalProject
 
 ## Daftar perintah GiT
+1. git clone
+2. git branch
+3. git checkout
+4. git add
+5. git commit
+6. git merge
+7. git push
